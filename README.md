@@ -13,7 +13,7 @@ A simple Python GUI tool that helps generate high-quality prompts for AI tools l
 
 ## 📸 Screenshot
 
-![Prompt Generator Screenshot](screenshot.png)
+![Prompt Generator Screenshot](1.png)
 
 ## 🚀 Getting Started
 
