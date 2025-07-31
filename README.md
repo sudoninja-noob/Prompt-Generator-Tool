@@ -9,7 +9,7 @@ A simple Python GUI tool that helps generate high-quality prompts for AI tools l
 - Custom subject/keyword input
 - Prompt auto-copied to clipboard
 - Clean dark-themed UI
-- Signature: "Made by Sudoninja" in bottom-right
+- Signature: "Made by Sudoninja".
 
 ## 📸 Screenshot
 
